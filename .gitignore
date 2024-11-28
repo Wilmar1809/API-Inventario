@@ -1,0 +1,51 @@
+# Archivos de compilación
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+bin/*
+obj/
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.idb
+*.obj
+*.o
+*.appx
+*.appxbundle
+
+# Archivos de configuración del IDE
+.vscode/
+.idea/
+*.sln.docstates
+*.suo
+*.user
+*.userprefs
+
+# Archivos de NuGet
+*.nupkg
+*.snupkg
+packages/
+*.props
+*.targets
+
+# Archivos de Visual Studio
+.vs/
+.vscode/
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Archivos de sistema
+Thumbs.db
+Desktop.ini
+*.bak
+*.swp
+*.swo
+*.tmp
+*.log
+
+# Archivos de entorno
+*.env
+appsettings.Bd.json
